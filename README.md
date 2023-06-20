@@ -10,7 +10,7 @@ Este proyecto consiste en una aplicación Java que permite calcular el promedio 
 * La aplicación calculará el promedio de ventas y lo mostrará en pantalla.
 
 ### Código Fuente
-
+~~~
 import java.util.Scanner;
 
 public class CalcularPromedioVentas {
@@ -41,6 +41,7 @@ public class CalcularPromedioVentas {
         sc.close();
     }
 }
+~~~
 
 ### Requisitos del Sistema
 * Java Development Kit (JDK) instalado en el equipo.
