@@ -15,14 +15,14 @@ En su labor como programador de software, has sido elegido para crear una aplica
 <img width="737" alt="Historia de usuario" src="https://github.com/Maac86/POO/assets/137130030/f2752dc0-ef40-412b-b445-8ad2e81ea419">
 
 
-### Diagrama de flujo
-
-![_Diagrama de flujo](https://github.com/Maac86/POO/assets/137130030/6fea85ac-bba4-4f6e-b28c-d416db739fd9)
-
-
 ### Caso de uso
 
 ![Caso de uso](https://github.com/Maac86/POO/assets/137130030/2c202a28-541b-495c-b43f-5342bc8c554f)
+
+
+### Diagrama de flujo
+
+![_Diagrama de flujo](https://github.com/Maac86/POO/assets/137130030/6fea85ac-bba4-4f6e-b28c-d416db739fd9)
 
 
 
