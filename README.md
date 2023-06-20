@@ -1,5 +1,5 @@
 ## Ejercicio Base
-En su labor como programador de software, has sido elegido para crear una aplicación dirigida a un vendedor para una un tienda de venta de chaquetas, que necesita calcular el promedio de ventas de un determinado modelo de chaqueta en un periodo de tiempo específico. Esta tienda realiza ventas de manera continua 
+En su labor como programador de software, has sido elegido para crear una aplicación dirigida a un vendedor de chaquetas, que necesita calcular el promedio de ventas de un determinado modelo de chaqueta en un periodo de tiempo específico. Esta tienda realiza ventas de manera continua y desea clacular el promedio general de ventas para cada modelo de chaqueta., se debe registar la referencia del modelo, su nombre y la categoria a la que pertence. 
 
 
 ### Instrucciones de Uso
