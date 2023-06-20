@@ -1,5 +1,6 @@
-## Venta de chaquetas
-Este proyecto consiste en una aplicación Java que permite calcular el promedio de ventas de un determinado modelo de chaqueta en un periodo de tiempo específico.
+## Ejercicio Base
+En su labor como programador de software, has sido elegido para crear una aplicación dirigida a un vendedor para una un tienda de venta de chaquetas, que necesita calcular el promedio de ventas de un determinado modelo de chaqueta en un periodo de tiempo específico. Esta tienda realiza ventas de manera continua 
+
 
 ### Instrucciones de Uso
 * Ejecute la aplicación Java.
