@@ -9,38 +9,34 @@ Este proyecto consiste en una aplicación Java que permite calcular el promedio 
 * Ingrese el valor de cada venta.
 * La aplicación calculará el promedio de ventas y lo mostrará en pantalla.
 
-### Código Fuente
+### Pseudocódigo
 ~~~
-import java.util.Scanner;
-
-public class CalcularPromedioVentas {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
-        System.out.println("Ingrese el modelo de chaqueta:");
-        String modeloChaqueta = sc.nextLine();
-        
-        System.out.println("Ingrese el periodo de tiempo:");
-        String periodoTiempo = sc.nextLine();
-        
-        System.out.println("Ingrese la cantidad de ventas:");
-        int cantidadVentas = sc.nextInt();
-        
-        int sumaVentas = 0;
-        for (int i = 1; i <= cantidadVentas; i++) {
-            System.out.print("Ingrese la venta número " + i + ": ");
-            int venta = sc.nextInt();
-            sumaVentas += venta;
-        }
-        
-        double promedioVentas = sumaVentas / (double) cantidadVentas;
-        
-        System.out.println("El promedio de ventas para el modelo de chaqueta " + modeloChaqueta + 
-                           " en el periodo de tiempo " + periodoTiempo + " es: " + promedioVentas);
-        
-        sc.close();
-    }
-}
+Algoritmo CalcularPromedioVentas
+	Definir cantidadVentas, modeloChaqueta, periodoTiempo, sumaVentas, promedioVentas Como Real;
+	Definir contadorVentas Como Entero;
+	
+	Escribir "Ingrese el modelo de chaqueta:";
+	Leer modeloChaqueta;
+	
+	Escribir "Ingrese el periodo de tiempo:";
+	Leer periodoTiempo;
+	
+	sumaVentas <- 0;
+	contadorVentas <- 0;
+	
+	Mientras contadorVentas < cantidadVentas
+		Escribir "Ingrese la venta número ", contadorVentas + 1;
+		Leer cantidadVentas;
+		
+		sumaVentas <- sumaVentas + cantidadVentas;
+		contadorVentas <- contadorVentas + 1;
+	Fin Mientras
+	
+	promedioVentas <- sumaVentas / contadorVentas;
+	
+	Escribir "El promedio de ventas para el modelo de chaqueta ", modeloChaqueta, " en el periodo de tiempo ", periodoTiempo, " es: ", promedioVentas;
+	
+FinAlgoritmo
 ~~~
 
 ### Requisitos del Sistema
