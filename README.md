@@ -1,4 +1,4 @@
-## Promedio de Ventas de chaquetas
+## Venta de chaquetas
 Este proyecto consiste en una aplicación Java que permite calcular el promedio de ventas de un determinado modelo de chaqueta en un periodo de tiempo específico.
 
 ### Instrucciones de Uso
