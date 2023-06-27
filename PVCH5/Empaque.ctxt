@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Empaque
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Empaque\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tama\u00F1o\ material\ codigo
+comment1.target=Empaque(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=referencia\ nombre\ categoria\ mes1\ mes2
+comment10.target=void\ adicionarChaquetaTienda(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment11.params=referencia\ nombre\ categoria\ mes1\ mes2\ mes3
+comment11.target=void\ adicionarChaquetaInternet(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getTama\u00F1o()
+comment3.params=
+comment3.target=java.lang.String\ getMaterial()
+comment4.params=material
+comment4.target=void\ setMaterial(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCodigo()
+comment6.params=codigo
+comment6.target=void\ setCodigo(java.lang.String)
+comment7.params=
+comment7.target=int\ getNumChaquetas1()
+comment8.params=
+comment8.target=int\ getNumChaquetas2()
+comment9.params=
+comment9.target=double\ calcularPromedioGeneral()
+numComments=12

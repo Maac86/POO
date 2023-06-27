@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ChaquetaTienda
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChaquetaTienda\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getReferencia()
+comment10.params=referencia\ nombre\ categoria\ mes1\ mes2
+comment10.target=ChaquetaTienda(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment11.params=
+comment11.target=double\ PromedioVentas()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCategoria()
+comment5.params=categoria
+comment5.target=void\ setCategoria(java.lang.String)
+comment6.params=
+comment6.target=double\ getMes1()
+comment7.params=mes1
+comment7.target=void\ setMes1(double)
+comment8.params=
+comment8.target=double\ getMes2()
+comment9.params=mes2
+comment9.target=void\ setMes2(double)
+numComments=12
